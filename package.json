@@ -1,0 +1,14 @@
+{
+  "name": "antecessorbash",
+  "version": "1.0.0",
+  "description": "Cria um sistema em bash para realizar a operação de antecessor. Desenvolvido para explicação junto aos alunos da ETEC Prof Milton Gazzetti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Graziani V Zanfolin",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
